@@ -1,0 +1,32 @@
+    .body{
+        color:darkgreen;
+        font-family:'Times New Roman', Times, serif;
+        font-weight:bolder;
+    }
+    h1{
+        color: aquamarine;
+    }
+    p{
+        color: brown;
+        font-size: 20px;
+        font-style: italic;
+        font-family: fantasy;
+        border:1px solid cornsilk;
+    }
+    h1,h2{
+        background-color:none;
+        border-bottom:1px solid blueviolet;
+    }
+    p.red{
+        color:red;
+    }
+    p.black{
+        color:black;
+    }
+    .pink{
+        color:pink;
+    }
+    .underline{
+        text-decoration: underline;
+    }
+    }
